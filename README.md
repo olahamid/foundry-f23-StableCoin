@@ -64,3 +64,16 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+
+1. Relative stability anchored or pegged -> $1.00
+    1. chiainlink price feed
+    2. set a function to exchange ETH & BTC -> $$$
+2. Stability mechanism (minting): algorithmic (decentralized)
+    1. people can only mint the stablecoin with enough collateral (coded)
+3. collateral: Exogenous (Crypto)
+    1. wETH
+    2. wBTC
+4. 
+-some more oracles to write
+-write more tests
+-prepare for audits
